@@ -1,0 +1,30 @@
+html {
+    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h2 {
+    font-weight: lighter;
+}
+
+header {
+    text-align: center;
+}
+
+.stripe {
+    border-radius: 10px;
+    padding: 1em;
+    margin: .5em 0;
+    position: relative;
+}
+
+.stripe p {
+    width: 90%;
+    display: inline-block;
+    margin: 0;
+}
+
+.stripe button {
+    position: absolute;
+    right: 1em;
+    margin: 0;
+}
